@@ -14,9 +14,6 @@ Additional description about the project and its features.
 - Frameworks
 - Technologies used
 
-## Live Demo
-
-[Live Demo Link](clothingshopproject.online)
 
 
 ## Getting Started
